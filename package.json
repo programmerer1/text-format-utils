@@ -1,5 +1,5 @@
 {
-  "name": "text-format-utils",
+  "name": "@programmerer1/text-format-utils",
   "version": "1.0.0",
   "description": "A simple utility library for text formatting (camelCase, snake_case, kebab-case)",
   "main": "index.js",
